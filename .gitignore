@@ -1,5 +1,3 @@
-gitea/*
-!gitea/.gitkeep
+gitea
 
-postgres/*
-!postgres/.gitkeep
+postgres
